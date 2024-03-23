@@ -351,10 +351,231 @@
 // console.log(students)
 
 
+// /////////////////////////////
+
+
+// even and odd number checker
+
+// let number = +prompt("What is the number?");
+
+// let result=number%2===0;
+
+// if (result) {
+//    console.log("even");
+// }
+// else{
+//     console.log("odd");
+// }
+
+
+
+// even and odd number checker
+
+// ////////////////////////////
+
+// age checker started
+
+
+// let age = +prompt("What is your age?");
+
+// if (age>18) { 
+//     document.write("Old enough.");
+// }
+// else{
+//     document.write("Too young.");
+// }
+
+
+
+
+// age checker ended
+
+
+
+// ////////////////////////////
+
+// question-4 started
+
+// let myName="noman";
+
+// let nameOfUser=prompt("What is your name?");
+
+// if(nameOfUser===myName){
+//    let message="Hello! "+nameOfUser+" How are you doing today?"
+//     document.write(message);
+// }
+
+
+
+
+// question-4 ended
+
+
+// ///////////////////////////////
+
+
+// question-5 started
+
+
+// let number=+prompt("What is the number?");
+
+// let result=number%3===0;
+
+// if(result){
+//     let message=number +" is divisible by 3.";
+//     document.write(message);
+// }
+// else{
+//     let message=number+ " is not divisible by 3.";
+//     document.write(message);
+// }
+
+
+
+
+// question-5 ended 
+
+// /////////////////////////
+
+
+// question-9 started
+
+
+// let year = +prompt("What is the year?");
+
+// let currentyear = 2024;
+
+// if (year < currentyear) {
+//     document.write("This is the leap year.");
+// }
+// else if(year===currentyear){
+//     document.write("This is the current year.");
+// }
+// else if(year>currentyear){
+//     document.write("This is the future year.");
+// }
+
+
+
+
+// question-9 ended
+
+// //////////////////////////
+
+// question-10 started
+
+// let password = 12345678;
+
+// let userPassword = +prompt("What is the password?");
+
+// if (userPassword === password) {
+//     console.log("Correct!");
+// } 
+// else if (userPassword === 0) 
+// { console.log("Please enter your password"); }
+// else { console.log("Incorrect password.") }
+
+
+// question-10 ended
+
+// //////////////////////////////////
+
+// question-11 started
+
+
+// let firstName = "Ali";
+
+// firstName=prompt("What is your name?");
+
+// if (firstName === "Fahad") {
+//  document.write("Hello Fahad!");
+// }else{
+//     document.write("you are not Fahad.")
+// }
+
+
+
+
+
+
+// question-11 ended
+
+// //////////////////////////////
+
+// question-12 started
+
+// let greeting;
+//  let hour = 13;
+//  if (hour < 18) {greeting = "Good day"} else { greeting = "Good evening"} 
+
+
+
+
+// question-12 ended
+
+// /////////////////////////
+
+// question-13 started
+
+// let integer1 = +prompt("What is the integer?");
+
+// let integer2 = +prompt("What is the second integer?");
+
+
+// if (integer1 > integer2) {
+//     console.log(integer1);
+// } else if (integer2 > integer1) { console.log(integer2) }
+// else if (integer1 === integer2) { console.log(integer1 + " and " + integer2 + " are equal.") }
+
+
+// question-13 ended
+
+// ///////////////////////
+
+// question-14 started
+
+// let number = +prompt("What is the number?");
+
+// if (number === 0) {
+//     console.log("It is a zero.");
+// } else if (number < 0) { console.log("It is a negative number."); }
+// else {
+//     console.log("It is a positive number.");
+// }
+
+
+
+
+// question-14 ended
+
+// ////////////////////
+
+// question-16 started
+
+
+
+
+// question-16 ended
+
+// ////////////////////////////
+
+// question-17 started
+
+// let userInput = prompt("Enter something.");
+
+// let vowel = ['a', 'e', 'i', 'o', 'u','A','E','I','O','U'];
+
+// if (vowel.indexOf(userInput)!=-1) {
+//     console.log("True");
+// }
+// else{
+//     console.log("False");
+// }
+
+// question-17 ended
+
+
 
 // practice ended
-
-
-
 
 
